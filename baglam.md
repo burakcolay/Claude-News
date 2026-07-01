@@ -3,6 +3,43 @@
 > Bu dosya her gün güncellenir, silinmez. Amaç: uzun vadeli trendleri, tekrarlayan riskleri/temaları ve takip edilen hisselerin genel yön hikayesini biriktirmek. Günlük raporlar (piyasa-ozeti-YYYY-MM-DD.md) bu dosyaya bakarak "geçen hafta/geçen ay ile kıyas" yapar.
 
 **İlk kayıt:** 2026-07-01 (bu tarihten önceki dönem için sistematik günlük veri yok; aşağıdaki arka plan bilgisi 1 Temmuz araştırmasından derlenmiştir.)
+**Geriye dönük ek (2026-07-01 araştırması):** Aşağıda, 1 Temmuz aktif temalarından *önce* okunması gereken bir "20-30 Haziran 2026 dönem özeti" bölümü eklendi. Bu bölüm günlük rapor değil, o iki haftanın uzun vadeli trend/tema fotoğrafıdır ve 1 Temmuz temalarının çıkış noktasını verir. (Not: Haziran 30 gün çektiği için pencere fiilen 20-30 Haziran'dır.)
+
+---
+
+## Geçmiş Dönem Bağlamı: 20-30 Haziran 2026 (geriye dönük araştırma)
+
+> Bu bölüm, sistematik günlük takibin başladığı 1 Temmuz'dan önceki iki haftanın özetidir. Aşağıdaki 1 Temmuz temalarının çoğu bu dönemde doğdu; "bu tema ne zaman başladı?" sorusunun cevabı burada.
+
+### Endeksler — dönem yönü ve performansı
+- **BIST100:** Dönem içinde **ayrışarak zayıfladı.** Haziran ayının tamamı bazında endeks yukarıdaydı (aylık ~+%4,16, 26 Haziran'da 14.274 seviyesini gördü), ancak dönemin ikinci yarısında yön aşağı döndü: **22-26 Haziran haftası -%3,13**, bankacılık endeksi ~-%5. 30 Haziran kapanışı **14.121,83 (-%0,43)**. Yani "ay yeşil ama son iki hafta kırmızı" — ABD ile ayrışma bu pencerede netleşti. Yabancı hisse tarafında net alım sürerken (dönem içi bir haftada +465,7 mn$) tahvil (DİBS) tarafında YTD net çıkış birikiyordu.
+- **S&P 500:** Haziran ayının tamamı **-%1,20.** Dönem içi seyir **V şeklindeydi:** 23 Haziran'da -%1,44'lük sert satış, ardından ay sonuna doğru toparlanma (29 Haziran +%1,2).
+- **Nasdaq:** En oynak endeks. **23 Haziran'da -%2,21** (küresel teknoloji satışı), **29 Haziran'da +%2** (mega-cap teknoloji liderliğinde tepki rallisi). Dönemi zirveye yakın kapattı ama sarsıntılı bir yolla.
+- **Dow:** En dirençli. 23 Haziran'da yalnızca -%0,09 (teknoloji satışından az etkilendi), **29 Haziran'da ilk kez 52.000'in üzerinde, rekor kapanış** (+~%0,6). Değer/savunmacı ağırlığı bu dönemde onu korudu — sektör rotasyonunun (büyümeden değere) canlı kanıtı.
+
+**Dönem özeti:** Wall Street'te mega-cap teknolojide sert ama kısa süreli bir şok + hızlı toparlanma; Dow rekor tazelerken BIST100 ayrışıp zayıfladı. 1 Temmuz'daki "ABD-BIST ayrışması" ve "AI/yarı iletken çatlak sinyalleri" temaları tam da bu iki haftada şekillendi.
+
+### Dönemin en önemli makro/jeopolitik gelişmeleri
+1. **ABD-İran ateşkesi ve Hürmüz'ün yeniden açılması (17 Haziran).** 12 Haziran'da ateşkes koşulları uzlaşıldı, **17 Haziran'da ABD-İran mutabakat muhtırası (MOU)** imzalandı: yaklaşık dört aylık savaşı bitiren, **60 günlük müzakere penceresi** açan ve Hürmüz'ü 60 gün boyunca gemilere ücretsiz geçişe açan bir çerçeve. ABD 18 Haziran'da İran limanlarındaki ablukayı kaldırdı; İran o günden itibaren 40 milyon varilden fazla ham petrol ihraç etti (savaş öncesine göre ~%20 primli fiyattan). **Kırılganlık:** 19 Haziran'da Cenevre'deki görüşmeler aniden ertelendi, Brent tepki verdi; İran boğaz yönetiminde kontrolü elde tutmakta ısrar etti. "Kalıcı normalleşme" tezi ta bu dönemde kırılgan doğdu.
+2. **Petrol fiyatlarında sert düşüş.** Ateşkesle birlikte Brent **dört seansta 17$ düştü, 78,24$'a** (3 Mart'tan bu yana en düşük), savaş zirvesinden ~%36 aşağı. Yakın vadede 75-82$ bandı beklentisi oluştu. Bu, 1 Temmuz'daki "Brent 73$" ve "petrol arz primi eridi" durumunun başlangıç noktası.
+3. **Fed / Kevin Warsh dönemi resmen başladı.** Powell'ın başkanlık dönemi Mayıs 2026'da sona erdi (Mayıs PPK'sında 1992'den bu yana ilk kez 4 üye muhalefet şerhi düştü). **17 Haziran FOMC — Warsh'ın ilk toplantısı:** faiz oybirliğiyle %3,50-3,75'te sabit, ama dot plot 2026 için **faiz artışı sinyali** verdi; Warsh %2 enflasyon hedefine kararlılığın altını çizerek şahin duruş sergiledi ve Fed operasyonlarını elden geçirecek görev güçleri (task force) ilan etti. İndirim bekleyen piyasa için ters sürpriz — 1 Temmuz'daki "indirim fiyatlanmıyor" tablosunun kaynağı.
+4. **TCMB faizi sabit tuttu (11 Haziran PPK).** Politika faizi **%37**, gecelik borç verme %40, borçlanma %35,5 — hepsi sabit. Kurul enflasyondaki yukarı yönlü risklere karşı ihtiyatlı/sıkı duruşu vurguladı. Bu, 1 Temmuz'daki "%37'de bekleme, ilk indirim ne zaman?" tartışmasının zemini.
+5. **Küresel teknoloji/yarı iletken satışı (23 Haziran).** Tek günde yaklaşık **1,4 trilyon dolar** buharlaştı: Nvidia -%3 (~279 mlyar$ piyasa değeri kaybı), Micron -%8,5, AMD -%6,2, Intel -%7,6, iShares Semiconductor ETF -%6,2. Asya'da Kospi -%10, SK Hynix ve Samsung -%12'den fazla. Tetikleyiciler: BofA'nın faiz artışı notu, Asya piyasalarındaki çöküş, Micron bilançosu öncesi "AI talebi barometresi" endişesi ve AI harcamalarının kâra dönüşüne dair artan şüphe. 26-29 Haziran'da toparlandı ama "AI capex/ROI şüpheciliği" teması bu satışla ana akıma girdi.
+6. **Trump tarife takvimi — 4 Temmuz AB ültimatomu.** 7 Mayıs'ta Trump, AB'ye ticaret anlaşmasını uygulaması için **4 Temmuz'a kadar süre** verdi; uymazsa tarife %15'ten %25'e çıkabilir. Dönem boyunca AB tarafı 1 Temmuz'da yürürlüğe girecek şekilde onay sürecini tamamladı. 1 Temmuz'daki "temmuz çift risk penceresi" temasının ilk bacağı bu dönemde kuruldu.
+
+### Takip edilen BIST hisseleri — dönemde öne çıkanlar
+- **KCHOL:** Dönem boyunca **volatil ve son günlerde aşağı eğilimli.** 25 Haziran: açılış 195,00 / kapanış 194,90 TL. 29 Haziran: açılış 198,20 / kapanış 195,70 TL. 30 Haziran kapanışı 193,50 TL. Yani 200 TL'ye yaklaşıp geri çekildi — holding endeksindeki genel zayıflığa paralel.
+- **ASELS:** Savunma temasında **kâr satışları** belirginleşti: 25 Haziran -%3,21, 29 Haziran -%1,11. İran ateşkesiyle jeopolitik risk priminin gerilemesi savunma hisselerine kısmi baskı yaptı (petrol/savunma temasının simetrik yansıması).
+- **THYAO:** Dönem sonunda ~331 TL bandında, endeks paralelinde sakin seyir; spesifik KAP/haber akışı zayıf.
+- **ECZYT, ECILC, GOZDE, NTHOL:** Dönem içinde belirgin şirkete özel haber akışı/likidite sınırlı; bu pencerede öne çıkan hareket tespit edilmedi (izlemeye devam).
+
+### Bu dönemde başlayıp 1 Temmuz'a taşınan ana temalar/riskler
+- **AI/yarı iletken capex-ROI şüpheciliği:** 23 Haziran satışıyla ana akıma girdi; "uzun yarı iletken" hâlâ en kalabalık işlem.
+- **ABD-BIST ayrışması:** Dow rekor kırarken BIST'in son iki haftada zayıflaması bu dönemde netleşti.
+- **TCMB faiz beklentisi:** %37'de bekleme; "ilk indirim ne zaman?" sorusu bu dönemde açık kaldı ve temmuza taşındı.
+- **Petrol fiyat seyri:** Ateşkesle 78$'a inen Brent, ertelenen görüşmelerle birlikte "aşağı trend ama kırılgan" profili kazandı.
+- **Tarife takvimi riski:** 4 Temmuz AB ültimatomu bu dönemde sayaç başlattı.
+- **Fed şahin sürprizi:** 17 Haziran FOMC, indirim beklentisini erteleyerek risk iştahıyla tezat oluşturmaya başladı.
 
 ---
 
