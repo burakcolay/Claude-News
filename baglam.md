@@ -3,7 +3,45 @@
 > Bu dosya her gün güncellenir, silinmez. Amaç: uzun vadeli trendleri, tekrarlayan riskleri/temaları ve takip edilen hisselerin genel yön hikayesini biriktirmek. Günlük raporlar (piyasa-ozeti-YYYY-MM-DD.md) bu dosyaya bakarak "geçen hafta/geçen ay ile kıyas" yapar.
 
 **İlk kayıt:** 2026-07-01 (bu tarihten önceki dönem için sistematik günlük veri yok; aşağıdaki arka plan bilgisi 1 Temmuz araştırmasından derlenmiştir.)
-**Geriye dönük ek (2026-07-01 araştırması):** Aşağıda, 1 Temmuz aktif temalarından *önce* okunması gereken bir "20-30 Haziran 2026 dönem özeti" bölümü eklendi. Bu bölüm günlük rapor değil, o iki haftanın uzun vadeli trend/tema fotoğrafıdır ve 1 Temmuz temalarının çıkış noktasını verir. (Not: Haziran 30 gün çektiği için pencere fiilen 20-30 Haziran'dır.)
+**Geriye dönük ek (2026-07-01 araştırması):** Aşağıda, 1 Temmuz aktif temalarından *önce* okunması gereken iki geçmiş dönem özeti var: **1-19 Haziran** ve **20-30 Haziran 2026**. Okuma sırası kronolojiktir: 1-19 Haziran → 20-30 Haziran → Aktif Ana Temalar. Bu bölümler günlük rapor değil, dönemlerin uzun vadeli trend/tema fotoğraflarıdır ve 1 Temmuz temalarının çıkış noktasını verir. (Not: Haziran 30 gün çektiği için son pencere fiilen 20-30 Haziran'dır.)
+
+---
+
+## Geçmiş Dönem Bağlamı: 1-19 Haziran 2026 (geriye dönük araştırma)
+
+> Bu bölüm, 20-30 Haziran özetinden bir önceki dönemi kapsar. Haziran ayının ilk yarısına damgasını vuran olay **İsrail/ABD-İran savaşının tırmanışı ve 17 Haziran'da imzalanan ateşkes mutabakatına (MOU) giden süreçtir.** 20-30 Haziran'daki (ve 1 Temmuz'daki) temaların çoğunun tohumu bu dönemde atıldı.
+
+### Endeksler — dönem yönü ve performansı
+- **BIST100:** Dönem **"savaş şoku → toparlanma" V'siyle** geçti. Haftanın ilk işlem gününde (Haziran başı) endeks Orta Doğu savaşının tırmanışıyla **%5'ten fazla düşerek 13.000'in altına** sarktı; yatırımcılar güvenli limanlara kaçtı (referans: Şubat ATH 14.339, Mart dibi ~13.100). 11 Haziran TCMB kararı beklenti dahilinde olduğu için ek baskı yaratmadı; ardından 17 Haziran ateşkes MOU'suna doğru risk iştahı toparlandı ve endeks yeniden 14.000 üzerine döndü. **Yön: sert risk-off ile başlayıp jeopolitik yatışmayla yükselişe dönen bir ay yarısı.**
+- **S&P 500 / Nasdaq:** Dönemin iki ayrı hikâyesi var. (1) **~4 Haziran Broadcom şoku:** AVGO 2Ç bilançosunda AI çip tahminini yükseltmeyince hisse **-%13/14** çakıldı, çip kompleksine yayıldı (SOXX -%2,1). Bu, "AI capex/ROI şüpheciliği" temasının ilk somut çatlağıydı. (2) **14-15 Haziran ateşkes rallisi:** İran anlaşması haberiyle S&P500 **+%1,65** (7.554), Nasdaq **+%3,07** (26.684). Yani ilk yarı, çip kaynaklı bir sarsıntının ardından savaş-çözümü rallisiyle yukarı kapandı.
+- **Dow:** Görece dirençli; 15 Haziran'da **+%0,92 (51.671)** ile ateşkes rallisine katıldı. Değer/savunmacı ağırlığı sayesinde çip satışından en az etkilenen endeks oldu — 20-30 Haziran'da netleşecek "büyümeden değere rotasyon" burada da görünür.
+
+**Dönem özeti:** ABD'de erken uyarı niteliğinde bir AI/çip satışı (Broadcom) + savaş-çözümü rallisi; Türkiye'de savaş kaynaklı sert satış + ateşkesle toparlanma. İlk yarının ana ekseni tamamen **jeopolitik risk primi**ydi.
+
+### Dönemin en önemli makro/jeopolitik gelişmeleri
+1. **İsrail/ABD-İran savaşının tırmanışı ve ateşkese giden süreç.** Savaş 28 Şubat 2026'da başlamıştı; Nisan'da geçici bir ateşkes sağlanmış ama kırılmıştı. Haziran ilk yarısında: **7 Haziran** İsrail'in Beyrut'a saldırısının ardından İran balistik füzelerle karşılık verdi, ateşkes sarsıldı; **11 Haziran** Trump planlanan saldırıları iptal edip "ilerleme" mesajı verdi (İran "anlaşma kesinleşmedi" dedi); **12 Haziran** 60 günlük yeni ateşkes koşulları uzlaşıldı; **14 Haziran** arabulucu Pakistan Başbakanı Şerif ABD-İran MOU'sunun kesinleştiğini duyurdu; **17 Haziran** MOU imzalandı (60 günlük müzakere penceresi + Hürmüz'ün yeniden açılması). Bu süreç, sonraki dönemin (ve 1 Temmuz'un) tüm jeopolitik/enerji temasının çekirdeği.
+2. **Petrol fiyatlarında zirveden sert iniş.** Brent savaş boyunca 100$ üzerindeydi (Nisan ~108$, Mayıs ~108$). Haziran başında Hürmüz kesintileriyle fiyatlar yeniden %10-13 sıçradı, "100$+ kalıcı olabilir" uyarıları geldi. Ama ateşkes yaklaştıkça çöküş başladı: 17-19 Haziran'a doğru Brent **73-76$ bandına** indi. Goldman 4Ç tahminini 90$'a (önce 80$) revize etti — sonraki dönemde 73$'a kadar inecek düşüşün başlangıcı.
+3. **Powell → Warsh Fed liderlik devri tamamlandı.** Powell'ın başkanlık dönemi **15 Mayıs 2026**'da sona erdi. Kevin Warsh **13 Mayıs**'ta Senato'da modern dönemin en çekişmeli oylamasıyla (54-45) onaylandı, **22 Mayıs**'ta yemin etti; ilk FOMC'si **16-17 Haziran**'a planlandı. Yani ilk yarı, yeni şahin başkanın ilk kararının beklendiği bir geçiş penceresiydi (kararın kendisi 17 Haziran, 20-30 Haziran bölümünde işlendi). Powell guvernör olarak Fed'de kaldı.
+4. **Broadcom AI çip şoku (~4 Haziran).** AVGO'nun 2026 AI yarı iletken satış tahminini yükseltmemesi "sat-haberi" tepkisiyle hisseyi -%13/14 düşürdü; bu, 23 Haziran'daki 1,4 trilyon dolarlık büyük yarı iletken satışının habercisiydi. "AI harcamaları kâra dönüyor mu?" sorusu bu tarihte kurumsal gündeme oturdu.
+5. **TCMB 11 Haziran PPK — beklenti dahilinde bekleme.** Politika faizi **%37**, gecelik borç verme %40, borçlanma %35,5 sabit. Karar tam beklenti içinde olduğu için sermaye piyasalarında kayda değer etki yaratmadı; TCMB "bekle-gör" ve sıkı duruşu sürdürdü. Ters-repo ihalelerine ara verilmesi gecelik faizleri yukarıda tuttu ve hisseye desteği sınırladı.
+6. **Savaş temalı BIST işlem davranışı — savunma vs. havacılık ayrışması.** Jeopolitik risk primi, savunma hisselerini (ASELS) desteklerken havacılığı (THYAO) petrol/uçuş iptali/hava sahası kısıtları üzerinden vurdu (aşağıya bkz.).
+
+### Takip edilen BIST hisseleri — dönemde öne çıkanlar
+- **ASELS:** Savaş temasının **kazananı.** Endeksin %5'ten fazla düştüğü günde savunma sanayii lokomotifi olarak pozitif ayrıştı (~+%0,62). Yükselen jeopolitik risk primi savunma hisselerine talep yarattı — bu, 20-30 Haziran'daki kâr satışlarının (ateşkesle risk priminin gerilemesi) öncesindeki "prim biriktirme" evresi.
+- **THYAO:** Savaş temasının **kaybedeni.** Bir işlem gününde **-%8,13**'e varan sert kayıp: yükselen petrol, uçuş iptalleri ve bölgesel hava sahası kısıtları. (Not: dönem sonuna doğru açığa satış listelerinde THYAO ve ASELS ilk iki sırayı paylaştı — her iki yönde de en spekülatif iki hisse bunlardı.)
+- **KCHOL:** Erken Haziran'da endeks paralelinde volatil; spesifik şirket haberi öne çıkmadı, holding endeksiyle birlikte hareket etti (20-30 Haziran'da 193-198 bandına oturacak seyrin öncesi).
+- **ECZYT, ECILC, GOZDE, NTHOL:** Bu dönemde de belirgin şirkete özel haber akışı/likidite sınırlı; öne çıkan spesifik hareket tespit edilmedi (izlemeye devam).
+
+### Bu dönemde başlayıp sonraki döneme (20-30 Haziran) taşınan ana temalar/riskler
+- **Jeopolitik/enerji ekseni:** Savaş → 17 Haziran MOU → 60 günlük saat; Brent 100$+'tan 73-76$'a. Sonraki dönemde "kalıcı normalleşme kırılgan" temasına dönüştü.
+- **AI/yarı iletken şüpheciliği:** Broadcom (4 Haz) ilk çatlak; 23 Haziran'daki büyük satışın provası.
+- **Fed şahin liderlik:** Warsh yemin etti (22 May), ilk kararı 17 Haziran'da şahin çıkarak indirim beklentisini ertelemeye başladı.
+- **BIST'te savaş volatilitesi → toparlanma:** Risk primi eksenli sert iniş-çıkış; ateşkesle 14.000 üzerine dönüş.
+- **THYAO/ASELS jeopolitik ikili işlem:** Savunma long / havacılık short refleksi; ateşkesle 20-30 Haziran'da simetrik olarak tersine dönmeye başladı (ASELS kâr satışı).
+- **TCMB bekleme/indirim zamanlaması:** 11 Haziran'da %37'de bekleme; "ilk indirim ne zaman?" sorusu açık kalıp sonraki dönemlere taşındı.
+
+### Veri kalitesi notu (1-19 Haziran, 01 Tem araştırmasından)
+Erken Haziran'daki ABD çip satışının büyüklüğünde kaynaklar çelişti: bir kaynak Nasdaq'ın ~4 Haziran'da -%4,18 ile 25.709'a indiğini, Broadcom'a özel bir başka kaynak ise aynı gün Nasdaq'ın yatay-hafif eksi (~26.830) kapadığını, S&P500'ün +%0,41 olduğunu belirtti. Broadcom hissesindeki -%13/14 ve SOXX -%2,1 teyitli; ancak endeks bazında günlük hareketin kesin büyüklüğü için terminal teyidi gerekiyor. Bu yüzden yukarıda Broadcom şoku "sektörel çip satışı" olarak nitelendi, kesin endeks yüzdesi verilmedi.
 
 ---
 
