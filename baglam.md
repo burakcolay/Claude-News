@@ -30,13 +30,20 @@ Philadelphia SOX endeksi Mart'tan bu yana +%88 (1994'ten beri en güçlü çeyre
 - Mayıs enflasyon ana trendi enerji fiyatları etkisiyle hafif geriledi.
 - Mayıs dış ticaret: ihracat -%9,5 YoY (22,46 mlyar $), ithalat -%10,8 YoY (28,07 mlyar $), açık -%15,6 daralma (5,61 mlyar $) — açığın daralması ihracat artışından değil, hem ihracat hem ithalatın küçülmesinden kaynaklanıyor (zayıf iç/dış talep sinyali).
 - İşsizlik (mevsimsellikten arındırılmış): %8,2. Mayıs'ta istihdam +285 bin kişi, 32,463 milyona ulaştı.
-- USD/TRY 30 Haziran'da 46,68 ile aylık zirve; TL üzerindeki baskı sürüyor.
+- USD/TRY 30 Haziran'da 46,68, 1 Temmuz sabahı 46,68 civarında (09:50 itibarıyla 46,6770) — aylık zirveye yakın seyir, TL üzerindeki baskı sürüyor.
+- **Güncelleme (01 Tem, öğleden sonra):** Başkan Fatih Karahan Londra'da yatırımcılara 23 Temmuz PPK öncesinde haftalık repo ihalelerine dönme konusunda acele etmeyeceklerini, önce Temmuz enflasyon verisini görmek istediklerini iletti. Piyasa bunu borçlanma maliyetinin bir sonraki karara kadar %40'ta kalacağı ve ilk indirimin 10 Eylül PPK'sına kayabileceği şeklinde okudu ([Ekonomim](https://www.ekonomim.com/ekonomi/tcmbden-londrada-faiz-mesaji-temmuz-enflasyonu-beklenecek-haberi-902213)). Doğrudan sonucu: bankacılık endeksi son günlerde %3,76, holding endeksi %0,79 kaybetti — tema 1'deki (ABD-BIST ayrışması) bankacılık zayıflığının somut tetikleyicisi netleşti. **İzle:** 23 Temmuz TCMB PPK'sı artık "Eylül'e kayan indirim" beklentisiyle fiyatlanıyor; bu beklenti bozulursa/teyit olursa bankacılık/holding ilk tepki verecek sektörler.
 
 ### 7. Piyasa genelinde aşırı iyimserlik / kırılganlık riski (yeni tema, 01 Tem)
 Üç bağımsız gösterge aynı anda tarihsel düşük/dar bantta: VIX 17,65 (aylık ortalama 17,91, 15-20 bandının alt-orta kesimi), CBOE equity put/call 0,67 (düşük, VIX ile uyumlu), ICE BofA HY OAS spread %2,78 (tarihsel dar). Buna ek olarak BofA Fon Yöneticileri Anketi'nde kurumsal hisse senedi ağırlığı net %50 fazlaya çıktı (1 ay önce %13), Ocak 2022'den bu yana en iyimser seviye, pozisyonlama göstergesi +2'ye yakın (kontrarian satış sinyali bölgesi). Rekor endeksler + sakin oynaklık + dar kredi spread'i + aşırı kalabalık pozisyonlama kombinasyonu, piyasanın sürpriz bir şoka (tarife, jeopolitik, Fed) karşı fiyatlama açısından hazırlıksız olabileceğine işaret ediyor. **İzle:** VIX'te ani sıçrama, HY spread genişlemesi, put/call oranında hızlı yükseliş — bunlardan biri gelirse "aşırı rahatlık" tezinin kırılmaya başladığının erken sinyali olur.
 
 ### 8. Sektör rotasyonu: büyümeden değere
 2026 başından bu yana Enerji (+%21), Materyaller (+%17), Temel Tüketim/Staples (+%15) ve Sanayi (+%12) geniş piyasayı (YTD hemen hemen düz) fersah fersah geçti — klasik "büyümeden değere" rotasyonu. Teknoloji/büyüme hisseleri yıl genelinde durgun kaldı, ama son günlerde (Mag7 +%2,6) kısa vadeli bir tepki rallisi var. Bu, ana rotasyon temasının tersine döndüğü anlamına gelmiyor — daha çok en kalabalık pozisyonun (uzun yarı iletken) taktik bir sıçrama yaşadığını gösteriyor. **İzle:** Rotasyonun kalıcı mı yoksa tepki rallisinin mi ağır bastığı, Temmuz bilançolarında netleşecek.
+
+### 9. Temmuz sonu merkez bankası yoğunluğu (yeni tema, 01 Tem)
+Temmuz'un son haftasında TCMB (23 Tem), ECB (23-24 Tem, kaynaklar arasında gün çelişkisi var), Fed (28-29 Tem, karar 29 Tem TSİ 21:00) ve BoE (30 Tem) art arda karar açıklayacak. Bu yoğunluk, mevcut düşük VIX/put-call/HY spread ortamıyla (tema 7) çakışıyor — piyasanın dört büyük merkez bankası kararını üst üste sindirmesi gereken bu pencere, sürpriz bir şoka karşı özellikle kırılgan bir dönem olarak işaretlenmeli. **İzle:** Her kararın birbirini nasıl etkileyeceği (örn. Fed şahin sürpriz yaparsa TCMB'nin Eylül indirim beklentisi de risk altına girebilir).
+
+### Veri kalitesi notu (01 Tem araştırmasından)
+İki noktada kaynaklar arası çelişki tespit edildi, çözülemedi, ileride teyit gerekiyor: (1) BIST yabancı işlem hacmi — 465,7 milyon dolarlık net hisse alımı bir kaynakta "19 Haziran haftası", önceki rapor turunda "25 Haziran haftası" olarak geçti; aynı zamanda DİBS'te net alım mı (339,7 mn$) net çıkış mı (YTD -1,51 mlyar$) olduğu konusunda da çelişki var. (2) LME bakır fiyatı aynı arama sonucunda hem ~13.100$/ton hem ~9.650$/ton olarak geçti — ikisi de teyitsiz, Goldman Sachs'ın 2026 ortalama tahmini (11.400$/ton) referans alınabilir ama günlük spot için gerçek zamanlı terminal teyidi gerekiyor.
 
 ---
 
@@ -49,7 +56,7 @@ Philadelphia SOX endeksi Mart'tan bu yana +%88 (1994'ten beri en güçlü çeyre
 | **ECZYT** | Veri kısıtlı, düşük likidite | İzlemeye devam — spesifik haber akışı zayıf |
 | **ECILC** | ~86 TL civarı (Haziran başı), güncel veri kısıtlı | İzlemeye devam |
 | **GOZDE** | 20,64 TL, -%1,40; 1Ç26 net zarar 1,36 milyar TL (taze veri kısıtlı, bu seviye referans) | Portföy şirketlerinde değer kaybı sürüyor, zayıf temel görünüm |
-| **KCHOL** | 191,80 TL, +%4,13 — holding endeksinden (%0,01) belirgin ayrıştı, KAP açıklaması tespit edilemedi | Volatil; 01 Tem'deki sıçramanın kaynağı belirsiz, izlenmeli |
+| **KCHOL** | 191,80 TL, +%4,13 (01 Tem'de) — 30 Haziran kapanışı 193,50 TL; holding endeksinden belirgin ayrıştı, KAP açıklaması tespit edilemedi | Volatil; sıçramanın kaynağı hâlâ belirsiz, holding endeksi genel zayıfken KCHOL'un ayrışması izlenmeli |
 | **NTHOL** | 51,60 TL, +%0,39; Şubat ATH 54,20 TL'ye yakın (taze veri kısıtlı, bu seviye referans) | Grup içinde nispeten sağlam temel görünüm |
 
 ---
