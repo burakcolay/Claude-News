@@ -40,9 +40,6 @@
 - **THYAO/ASELS jeopolitik ikili işlem:** Savunma long / havacılık short refleksi; ateşkesle 20-30 Haziran'da simetrik olarak tersine dönmeye başladı (ASELS kâr satışı).
 - **TCMB bekleme/indirim zamanlaması:** 11 Haziran'da %37'de bekleme; "ilk indirim ne zaman?" sorusu açık kalıp sonraki dönemlere taşındı.
 
-### Veri kalitesi notu (1-19 Haziran, 01 Tem araştırmasından)
-Erken Haziran'daki ABD çip satışının büyüklüğünde kaynaklar çelişti: bir kaynak Nasdaq'ın ~4 Haziran'da -%4,18 ile 25.709'a indiğini, Broadcom'a özel bir başka kaynak ise aynı gün Nasdaq'ın yatay-hafif eksi (~26.830) kapadığını, S&P500'ün +%0,41 olduğunu belirtti. Broadcom hissesindeki -%13/14 ve SOXX -%2,1 teyitli; ancak endeks bazında günlük hareketin kesin büyüklüğü için terminal teyidi gerekiyor. Bu yüzden yukarıda Broadcom şoku "sektörel çip satışı" olarak nitelendi, kesin endeks yüzdesi verilmedi.
-
 ---
 
 ## Geçmiş Dönem Bağlamı: 20-30 Haziran 2026 (geriye dönük araştırma)
@@ -117,9 +114,6 @@ Philadelphia SOX endeksi Mart'tan bu yana +%88 (1994'ten beri en güçlü çeyre
 ### 9. Temmuz sonu merkez bankası yoğunluğu (yeni tema, 01 Tem)
 Temmuz'un son haftasında TCMB (23 Tem), ECB (23-24 Tem, kaynaklar arasında gün çelişkisi var), Fed (28-29 Tem, karar 29 Tem TSİ 21:00) ve BoE (30 Tem) art arda karar açıklayacak. Bu yoğunluk, mevcut düşük VIX/put-call/HY spread ortamıyla (tema 7) çakışıyor — piyasanın dört büyük merkez bankası kararını üst üste sindirmesi gereken bu pencere, sürpriz bir şoka karşı özellikle kırılgan bir dönem olarak işaretlenmeli. **İzle:** Her kararın birbirini nasıl etkileyeceği (örn. Fed şahin sürpriz yaparsa TCMB'nin Eylül indirim beklentisi de risk altına girebilir).
 
-### Veri kalitesi notu (01 Tem araştırmasından)
-İki noktada kaynaklar arası çelişki tespit edildi, çözülemedi, ileride teyit gerekiyor: (1) BIST yabancı işlem hacmi — 465,7 milyon dolarlık net hisse alımı bir kaynakta "19 Haziran haftası", önceki rapor turunda "25 Haziran haftası" olarak geçti; aynı zamanda DİBS'te net alım mı (339,7 mn$) net çıkış mı (YTD -1,51 mlyar$) olduğu konusunda da çelişki var. (2) LME bakır fiyatı aynı arama sonucunda hem ~13.100$/ton hem ~9.650$/ton olarak geçti — ikisi de teyitsiz, Goldman Sachs'ın 2026 ortalama tahmini (11.400$/ton) referans alınabilir ama günlük spot için gerçek zamanlı terminal teyidi gerekiyor.
-
 ---
 
 ## Takip Edilen BIST Hisseleri — Yön Hikayesi
@@ -133,6 +127,16 @@ Temmuz'un son haftasında TCMB (23 Tem), ECB (23-24 Tem, kaynaklar arasında gü
 | **GOZDE** | 20,64 TL, -%1,40; 1Ç26 net zarar 1,36 milyar TL (taze veri kısıtlı, bu seviye referans) | Portföy şirketlerinde değer kaybı sürüyor, zayıf temel görünüm |
 | **KCHOL** | 191,80 TL, +%4,13 (01 Tem'de) — 30 Haziran kapanışı 193,50 TL; holding endeksinden belirgin ayrıştı, KAP açıklaması tespit edilemedi | Volatil; sıçramanın kaynağı hâlâ belirsiz, holding endeksi genel zayıfken KCHOL'un ayrışması izlenmeli |
 | **NTHOL** | 51,60 TL, +%0,39; Şubat ATH 54,20 TL'ye yakın (taze veri kısıtlı, bu seviye referans) | Grup içinde nispeten sağlam temel görünüm |
+
+---
+
+## Açık Veri Sorunları
+
+> Kaynaklar arası çelişen veya teyit bekleyen, **henüz çözülmemiş** veri noktalarının tek listesi (eski dağınık "Veri kalitesi notu" bloklarının birleştirilmiş hâli). Bir madde terminal/resmî veriyle netleştiğinde bu listeden çıkarılır; çözülmüş kayıtlar burada tutulmaz.
+
+1. **Erken Haziran ABD çip satışının endeks büyüklüğü** (bkz. 1-19 Haziran bölümü). Nasdaq'ın ~4 Haziran hareketi bir kaynakta -%4,18 ile 25.709, Broadcom'a özel başka bir kaynakta aynı gün yatay-hafif eksi (~26.830, S&P500 +%0,41) olarak geçti. Broadcom hissesindeki -%13/14 ve SOXX -%2,1 teyitli; ancak endeks bazında günlük hareketin kesin yüzdesi terminal teyidi bekliyor. (Bu yüzden metinde şok "sektörel çip satışı" olarak nitelendi, kesin endeks yüzdesi verilmedi.)
+2. **BIST yabancı işlem verisi** (bkz. 20-30 Haziran bölümü ve Aktif Tema 1). 465,7 milyon dolarlık net hisse alımının hangi haftaya ait olduğu çelişkili (bir kaynakta "19 Haziran haftası", başka bir turda "25 Haziran haftası"). Ayrıca DİBS tarafında net alım mı (339,7 mn$) yoksa YTD net çıkış mı (-1,51 mlyar$) olduğu kaynaklar arasında tutarsız.
+3. **LME bakır spot fiyatı.** Aynı arama turunda hem ~13.100$/ton hem ~9.650$/ton olarak geçti; ikisi de teyitsiz. Referans olarak Goldman Sachs'ın 2026 ortalama tahmini (11.400$/ton) alınabilir, ancak günlük spot için gerçek zamanlı terminal teyidi gerekiyor.
 
 ---
 
